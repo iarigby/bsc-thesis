@@ -1,0 +1,30 @@
+*.o
+*.gch
+a.out
+/bin
+/catch2
+commitmessage
+.dir-locals.el
+/CORPUS
+/docs
+settings.json
+.cquery_cached_index/
+
+# output
+results.txt
+
+# latex files
+*.nlo
+*.idx
+*.log
+*.aux
+
+# cquery
+compile_commands.json
+
+# doxygen latex files
+latex/Makefile
+latex/annotated.tex
+latex/dir_*
+latex/refman.tex
+
